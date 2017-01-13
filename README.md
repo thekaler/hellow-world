@@ -1,2 +1,2 @@
 # hellow-world
-Only a test repository
+Tests roms SM-G531H/BT
